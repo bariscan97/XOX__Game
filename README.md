@@ -1,9 +1,11 @@
 # XOX GAME
-### Link https://xox-game.netlify.app
-
+## Link https://xox-game.netlify.app
+<br>
+<br>
 
 ![xox](https://user-images.githubusercontent.com/88321721/202698318-ec674111-a219-4886-9a47-d66dd752143f.png)
-
+<br>
+<br>
 
 
 
