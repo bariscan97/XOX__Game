@@ -2,7 +2,8 @@
 ### Link https://xox-game.netlify.app
 
 
-![xox](https://user-images.githubusercontent.com/88321721/202698119-e82d6ea8-2e6d-47a9-ba8a-a0c3972269eb.png)
+![xox](https://user-images.githubusercontent.com/88321721/202698318-ec674111-a219-4886-9a47-d66dd752143f.png)
+
 
 
 
