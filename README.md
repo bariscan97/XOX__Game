@@ -1,8 +1,10 @@
+# XOX GAME
+### Link https://xox-game.netlify.app
 
 
 
 
-<img src="xox.png"><img/>
+
 
 # Getting Started with Create React App
 
