@@ -1,5 +1,5 @@
 # XOX GAME
-## Link https://xox-game.netlify.app
+## Link ==> https://xox-gamewithreact.netlify.app/
 <br>
 <br>
 
